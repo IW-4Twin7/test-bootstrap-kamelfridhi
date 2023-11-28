@@ -1,0 +1,83 @@
+@import "_variables";
+
+
+.navTitlee {
+    font-size: $font-sizeNavtitle;
+    letter-spacing: $letter-spacingNavTitle;
+    line-height: $line-heightNavTitle;
+    color: $colorNavTitle;
+    font-weight: $font-weightNavTitle;
+    font-family: $font-familyOpenSans;
+}
+
+.navv {
+    font-weight: $font-weight-nav;
+    font-size: $font-size-nav;
+    line-height: $line-height-nav;
+    color: $color-nav-items;
+    font-family: "Lato";
+    margin-left: 60px;
+    text-decoration: none;
+
+}
+
+.button1
+{
+    width:$btn-width;
+    height:$btn-height;
+    border-radius: $btn-border-radius;
+    background-color:$btn-background-color;
+    border: $btn-border;
+    font-weight: $font-weight-title;
+    font-size: $font-size-btn-text;
+    letter-spacing:$letter-spacing-btn-text;
+    line-height: $line-height-btn-text;
+    text-transform:$text-transform-btn-text;
+    color:$color-btn-text;
+    font-weight:font-weight;
+    
+    
+}
+
+.parg{
+
+font-size: $font-size-sous-title;
+line-height: $line-height-sous-title;
+color:$colorTags;
+font-weight: $font-weight-sous-title;
+
+}
+
+.binseparator{
+   
+color: $colorTags;
+
+
+
+}
+
+.button2{
+width:$width2;
+height: $height2;
+border-radius:$border-radius2;
+background-color:$background-color2;
+
+font-size: $font-sizeBtn2Text;
+letter-spacing: $letter-spacing-ftitle;
+line-height: $line-height-ftitle;
+text-transform:  $text-transform-ftitle;
+color:$colorBtn2Text;
+
+}
+
+.textnav
+{
+font-size:$font-sizeBtn2Text;
+letter-spacing: $letter-spacing-ftitle;
+line-height: $line-height-ftitle;
+text-transform: $text-transform-ftitle;
+color: $footer-title-color;
+font-weight:$font-weight-sous-title;
+font-family: $font-family-ftitle;
+
+}

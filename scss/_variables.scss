@@ -1,0 +1,86 @@
+/*GENERAL*/
+$font-familyLato: "Lato", sans-serif;
+$font-familyOpenSans: "Open Sans", sans-serif;
+
+/*NAV*/
+/*nav title*/
+$font-sizeNavtitle: 27px;
+$letter-spacingNavTitle: -2px;
+$line-heightNavTitle: 0px;
+$colorNavTitle: #000000;
+$font-weightNavTitle: bold;
+
+$font-weight-nav: 400;
+$font-size-nav: 16px;
+$line-height-nav: 24px;
+$color-nav-items: #242f51;
+$background-nav: #ffffff;
+
+
+/*BODY*/
+/**************title**************/
+$font-size-title : 22px;
+$line-height-title: 0px;
+$font-weight-title: bold;
+$color-title: #000000;
+
+/**************sous title**************/
+
+$font-size-sous-title : 15px;
+$line-height-sous-title: 24px;
+$font-weight-sous-title: 400;
+$color-sous-title: #535353;
+
+/**************BTN**************/
+
+$btn-width: 124px;
+$btn-height: 26px;
+$btn-border-radius: 5px;
+$btn-background-color: #ffffff;
+$btn-border:  1px solid #e85f37;
+
+/**************TEXT OF BTN**************/
+$letter-spacing-btn-text: 2px;
+$text-transform-btn-text: uppercase;
+$text-align-btn-text: left;
+$font-size-btn-text : 13px;
+$line-height-btn-text: 0px;
+$font-weight-btn-text: bold;
+$color-btn-text: #e85f37;
+
+
+
+/*taht btn*/
+$font-sizeTags: 12px;
+$line-heightTags: 0px;
+$colorTags: #535353;
+$font-weightTags: bold;
+$font-familyTags: "Open Sans";
+$text-alignTags: left;
+
+/*BTN PREVIOUS*/
+$width2: 135px;
+$height2: 35px;
+$border-radius2: 5px;
+$background-color2: #000000;
+
+
+/*text mte3 btn previous*/
+
+$font-sizeBtn2Text: 13px;
+$letter-spacingBtn2Text: 2px;
+$line-heightBtn2Text: 0px;
+$text-transformBtn2Text: uppercase;
+$colorBtn2Text: #ffffff;
+$font-familyBtn2Text: "Font Awesome";
+$text-alignBtn2Text: left;
+$font-weight : 700px;
+
+/*footer title*/
+$letter-spacing-ftitle: 2px;
+$line-height-ftitle: 0px;
+$text-transform-ftitle: uppercase;
+$font-family-ftitle: "Lato";
+$text-align-ftitle: left;
+$font-size-ftitle :13px;
+$footer-title-color: #525252;

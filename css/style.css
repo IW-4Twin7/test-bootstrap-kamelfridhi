@@ -1,0 +1,80 @@
+/*GENERAL*/
+/*NAV*/
+/*nav title*/
+/*BODY*/
+/**************title**************/
+/**************sous title**************/
+/**************BTN**************/
+/**************TEXT OF BTN**************/
+/*taht btn*/
+/*BTN PREVIOUS*/
+/*text mte3 btn previous*/
+/*footer title*/
+.navTitlee {
+  font-size: 27px;
+  letter-spacing: -2px;
+  line-height: 0px;
+  color: #000000;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+}
+
+.navv {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #242f51;
+  font-family: "Lato";
+  margin-left: 60px;
+  text-decoration: none;
+}
+
+.button1 {
+  width: 124px;
+  height: 26px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  border: 1px solid #e85f37;
+  font-weight: bold;
+  font-size: 13px;
+  letter-spacing: 2px;
+  line-height: 0px;
+  text-transform: uppercase;
+  color: #e85f37;
+  font-weight: font-weight;
+}
+
+.parg {
+  font-size: 15px;
+  line-height: 24px;
+  color: #535353;
+  font-weight: 400;
+}
+
+.binseparator {
+  color: #535353;
+}
+
+.button2 {
+  width: 135px;
+  height: 35px;
+  border-radius: 5px;
+  background-color: #000000;
+  font-size: 13px;
+  letter-spacing: 2px;
+  line-height: 0px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.textnav {
+  font-size: 13px;
+  letter-spacing: 2px;
+  line-height: 0px;
+  text-transform: uppercase;
+  color: #525252;
+  font-weight: 400;
+  font-family: "Lato";
+}
+
+/*# sourceMappingURL=style.css.map */
